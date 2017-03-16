@@ -1,2 +1,2 @@
-# docs
-The documentation repository that drives http://xcaler.com/docs
+# Documentation
+The public documentation repository that drives https://xcaler.com/docs
