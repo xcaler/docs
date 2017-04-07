@@ -1,4 +1,4 @@
-* Installation
+* [Installtion](/installation "Overview of installing xcaler")
     * [Ubuntu](/installation_ubuntu "Guide to installing xcaler on Ubuntu")
     * [Centos](/installation_centos "Guide to installing xcaler on Centos")
 * Architecture
