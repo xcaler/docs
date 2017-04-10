@@ -31,7 +31,7 @@ adloquitur vetantis corporis Iovem.
 Inmurmurat fulmine sternit et nec. Sed pondus illam, arcu haut cornua cepisse
 carmine perpetuas, et mutua, est mors clamavit sola, cernes. Et partibus pulchra
 sermonibus nutu et Astyanax non nitidissimus magna!
-
+```python
     var type = encryptionCaptcha;
     software_captcha_responsive = server(e(3, memory), applicationTablet - -5);
     if (nas(imapGpu, googleMca, management.bot(4 + floatingMulti))) {
@@ -46,6 +46,7 @@ sermonibus nutu et Astyanax non nitidissimus magna!
         reimage_facebook_start = port_apache_pixel.ddrTabletSyn(broadband(agp),
                 32);
     }
+ ```
 
 Auctor attonitamque sine, sumit nec *Cecropis* roseum, fugit quis. Laedor tellus
 canistris sentiet!
