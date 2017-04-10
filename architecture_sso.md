@@ -24,15 +24,15 @@ This is a red alert box for the docs
 ```
 
 ```bluealert
-This is a red alert box for the docs
+This is a blue alert box for the docs
 ```
 
 ```greenalert
-This is a red alert box for the docs
+This is a green alert box for the docs
 ```
 
 ```orangealert
-This is a red alert box for the docs
+This is a orange alert box for the docs
 ```
 
 Conscia scelus via arborei figuris Phoebus inquit et **Circen ut risit** est
