@@ -20,7 +20,19 @@ certans ad mora fata retexitur stagna. Et falsis pietas certamina locutus inter
 verba nitentem saltuque inde inmunitamque sublimibus captus vires.
 
 ```redalert
-This will be styled to be an alert box, with a range of colours
+This is a red alert box for the docs
+```
+
+```bluealert
+This is a red alert box for the docs
+```
+
+```greenalert
+This is a red alert box for the docs
+```
+
+```orangealert
+This is a red alert box for the docs
 ```
 
 Conscia scelus via arborei figuris Phoebus inquit et **Circen ut risit** est
