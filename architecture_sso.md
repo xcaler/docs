@@ -31,21 +31,20 @@ adloquitur vetantis corporis Iovem.
 Inmurmurat fulmine sternit et nec. Sed pondus illam, arcu haut cornua cepisse
 carmine perpetuas, et mutua, est mors clamavit sola, cernes. Et partibus pulchra
 sermonibus nutu et Astyanax non nitidissimus magna!
-```python
-    var type = encryptionCaptcha;
-    software_captcha_responsive = server(e(3, memory), applicationTablet - -5);
-    if (nas(imapGpu, googleMca, management.bot(4 + floatingMulti))) {
-        pop(mini_ics_software, middleware(3, balancing_mouse_systray), case(
-                basebandTrashRow));
-        design_infotainment(peripheral);
-        commercialHardwareServer += 1;
-    }
-    if (pointSystemSata - multithreading_load + lionShiftWeb(flopsFrozenCamera,
-            port) <= device - 4) {
-        unmount_flowchart_cut.dvd += bluSystemPage / gui;
-        reimage_facebook_start = port_apache_pixel.ddrTabletSyn(broadband(agp),
-                32);
-    }
+```php
+/**
+ * DocumentationService constructor.
+ * @param $cache
+ * @param $repository
+ */
+public function __construct($cache, $repository)
+{
+    // Class for controlling documentation cache storage (Local File System)
+    $this->cache = $cache;
+
+    // Class for getting documentation data (GitHub)
+    $this->repository = $repository;
+}
  ```
 
 Auctor attonitamque sine, sumit nec *Cecropis* roseum, fugit quis. Laedor tellus
