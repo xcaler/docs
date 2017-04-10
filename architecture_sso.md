@@ -19,6 +19,10 @@ protegat di pone fatalis, est maxima. Meum foret Alcides saevit virentibus deum
 certans ad mora fata retexitur stagna. Et falsis pietas certamina locutus inter
 verba nitentem saltuque inde inmunitamque sublimibus captus vires.
 
+```redalert
+This will be styled to be an alert box, with a range of colours
+```
+
 Conscia scelus via arborei figuris Phoebus inquit et **Circen ut risit** est
 undis manu, meis? Ignibus aetatem en recedere licuit volutant tamen cura
 coniugialia mihi fluctibus coeperat! Quaedam pariterque Ammon despectat
