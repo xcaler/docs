@@ -1,7 +1,7 @@
 # Tollite Tenedon vocari saevo Thisbe Minos
 
-* [Illa oritur](#Illa oritur])
-* [Nervo nemo](#Nervo nemo)
+* [Illa oritur](#Illa_oritur])
+* [Nervo nemo](#Nervo_nemo)
 * [Moderata](#Moderata)
 
 ## Illa oritur
