@@ -1,5 +1,5 @@
-* Installation
+* [Installation](#)
     * [Ubuntu](/docs/1.0/installation_ubuntu "Guide to installing xcaler on Ubuntu")
     * [Centos](/docs/1.0/installation_centos "Guide to installing xcaler on Centos")
-* Architecture
+* [Architecture](#)
     * [Web server](/docs/1.0/architecture_webserver "Guide to the architecture of the web sever package")
