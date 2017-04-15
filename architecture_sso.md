@@ -23,8 +23,6 @@ protegat di pone fatalis, est maxima. Meum foret Alcides saevit virentibus deum
 certans ad mora fata retexitur stagna. Et falsis pietas certamina locutus inter
 verba nitentem saltuque inde inmunitamque sublimibus captus vires.
 
-> {alert} maybe a better way of adding alert boxes
-
 ```redalert
 This is a red alert box for the docs
 ```
